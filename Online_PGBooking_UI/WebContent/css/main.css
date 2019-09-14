@@ -1,0 +1,33 @@
+
+
+.login_border{
+	margin : 5% ;
+	padding : 2%;
+	width : 330px;
+	height : 370px;
+	border: 1px solid blue;
+	/*background: black;
+	text-decoration: none;*/
+}
+
+.full_page_center{
+	float: center;
+	margin: 0%;
+	margin-left :25px;
+	padding: 0%;
+	/*border:  1px solid green;*/
+	
+}
+
+.type_btn_reg_page{
+	margin : 1.5%;
+	padding: 1.5%;
+}
+
+
+
+
+
+
+
+
